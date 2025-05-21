@@ -105,5 +105,5 @@ Cross-Platform: Developed on macOS. Minor path or clipboard-related issues may o
 
 # Author
 Tushar Bharadwaj
-Aspiring Cybersecurity Professional | Automation Enthusiast | Python Developer
+|| Aspiring Cybersecurity Professional | Automation Enthusiast | Python Developer ||
 
