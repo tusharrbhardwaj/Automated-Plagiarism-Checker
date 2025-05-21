@@ -66,12 +66,14 @@ Merges all individual reports into a single PDF.
 Final Output: A clean, professional PDF file named {your-file-name}-Plagiarism-Report.pdf.
 
 ## Folder Structure
+```
 📁 Your Folder
 ├── main.py
 ├── your_input_file.docx
 ├── filename/           # (Auto-created) Contains text chunks for checking
 ├── pdffolder/          # (Auto-created) Contains individual PDF reports
 └── Duplichecker-Plagiarism-Report.pdf
+```
 
 
 # Use Cases
