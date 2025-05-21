@@ -97,12 +97,13 @@ Cross-Platform: Developed on macOS. Minor path or clipboard-related issues may o
 
 # Future Improvements
 
--- Modular code structure with separate files for each task
--- Better error handling and progress reporting
--- GUI version using tkinter or PyQt
--- CLI arguments for automation and batch jobs
--- Dockerized version for isolated runs
+1. Modular code structure with separate files for each task
+2. Better error handling and progress reporting
+3. GUI version using tkinter or PyQt
+4. CLI arguments for automation and batch jobs
+5. Dockerized version for isolated runs
 
 # Author
-## Tushar Bharadwaj
+Tushar Bharadwaj
+Aspiring Cybersecurity Professional | Automation Enthusiast | Python Developer
 
