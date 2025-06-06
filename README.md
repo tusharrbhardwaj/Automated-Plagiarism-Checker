@@ -1,4 +1,4 @@
-# Automated Plagiarism Checker & Report generator
+# Automated Plagiarism Checker & Report Generator
 
 This Python script is an all-in-one automation and file-processing solution that helps users:
 - 🔀 Split large documents for free plagiarism checking
